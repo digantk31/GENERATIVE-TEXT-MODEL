@@ -7,7 +7,7 @@
 **DURATION**: 4 WEEKS
 
 *Project Images*:
-*generative_text_model-outputs*
+*generative_text_model - outputs*
 ![01.png](https://github.com/digantk31/GENERATIVE-TEXT-MODEL/blob/main/project%20images/01.png)
 ![02.png](https://github.com/digantk31/GENERATIVE-TEXT-MODEL/blob/main/project%20images/02.png)
 
