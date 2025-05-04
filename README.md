@@ -1,10 +1,17 @@
 # GENERATIVE-TEXT-MODEL
 
-**COMPANY**: CODTECH IT SOLUTIONS
-**NAME**: DIGANT KATHIRIYA
-**INTERN ID**: CODF51
-**DOMAIN**: Artificial Intelligence Markup Language
+**COMPANY**: CODTECH IT SOLUTIONS  
+**NAME**: DIGANT KATHIRIYA  
+**INTERN ID**: CODF51  
+**DOMAIN**: Artificial Intelligence Markup Language  
 **DURATION**: 4 WEEKS
+
+*Project Images*:
+*GENERATIVE TEXT MODEL - outputs*
+![01.png](https://github.com/digantk31/GENERATIVE-TEXT-MODEL/blob/main/project%20images/01.png)
+![02.png](https://github.com/digantk31/GENERATIVE-TEXT-MODEL/blob/main/project%20images/02.png)
+
+---
 
 ## Description of the Task
 
